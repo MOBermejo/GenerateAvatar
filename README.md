@@ -3,6 +3,7 @@ Use the following microservice to generate an avatar randomly. The response will
 
 ## Request Data
 1. Send a HTTP GET request to the following endpoint: https://2fwbisgdxrskb3lbg6rurpwsju0bbuqx.lambda-url.us-east-2.on.aws/ 
+2. No additional parameters, or headers, are necessary.
 
 ## Retrieve Data
 1. Obtain SVG text from body of response.
