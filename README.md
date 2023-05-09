@@ -8,18 +8,5 @@ Use the following microservice to generate an avatar randomly. The response will
 1. Obtain SVG text from body of response.
 2. Use SVG text as part of your application. Call the microservice whenever needed to generate a new avatar.
 
-## UML 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 
+## UML
+![Alt text](/Generate Avatar Sequence Diagram.png)
